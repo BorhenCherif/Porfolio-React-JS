@@ -1,0 +1,20 @@
+
+body{
+    text-align: center;
+    font-size: 20px;
+    padding: 2.5%;
+    font-family: 'Crimson Text', serif;
+
+}
+.Picture{
+width: 200px;
+height: 200px;
+border-radius: 100px;
+}
+.title{
+    text-align: center;
+}
+.Projects{
+    display: inline-block;
+    margin: 10px;
+}
